@@ -14,13 +14,16 @@ Edit the question pages
 
 Edit colors inc/css/forms.php
 
-Edit Header
+Edit Header & Title
 
 Edit images in inc/css/images
 
 Change name of lesson/message <button id="form-submit" class="go" name="Lesson" value="the Message"
 
 Change the button and "click here to finish" on the last page of content
+
+Double check from submissions. Might want to add some invisible form values so you'll have the info in the email
+
 -->
 <body>
 <!-- <div id="floater" style="height:50%; margin-bottom: -100px;"></div> -->

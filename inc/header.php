@@ -8,7 +8,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>The Lords Words</title>
+	<title>Quick Sketch – How to Draw like a Pro</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 

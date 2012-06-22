@@ -11,7 +11,7 @@
 <em>1</em>
 </li>
 <?php } else { ?>
-<li>1</li>
+<li><a href="1.php">1</a></li>
 <?php } ?>
 
 <?php if ($page == '2') { ?>
@@ -19,7 +19,7 @@
 <em>2</em>
 </li>
 <?php } else { ?>
-<li>2
+<li><a href="2.php">2</a></li>
 <?php } ?>
 
 <?php if ($page == '3') { ?>
@@ -27,7 +27,7 @@
 <em>3</em>
 </li>
 <?php } else { ?>
-<li>3</li>
+<li><a href="3.php">3</a></li>
 <?php } ?>
 
 <?php if ($page == '4') { ?>
@@ -35,7 +35,7 @@
 <em>4</em>
 </li>
 <?php } else { ?>
-<li>4</li>
+<li><a href="4.php">4</a></li>
 <?php } ?>
 <!--
 <?php if ($page == '5') { ?>

@@ -25,26 +25,16 @@ $page = '1';
         <div id="content">		
         <div class="clear"></div>                     
             <div id="big_gray">
-            <h1>"Counseling on Issues in Life with the Lord"
+            <img src="../inc/css/images/form_avatar.png" align="left" style="margin-left:-5px;" >
+            <h1>Quick Sketch – How to Draw like a Pro
                     </h1>
-                    <img src="../inc/css/images/jesus.png" align="left" class="left" style="margin-left:-5px;" >
-                    <p>
-                    Hallelujah! I bid you the love of the everlasting God and the peace of Jesus. I bless that today, also, the fiery movement, inspiration, and working of the Holy Spirit will fill you abundantly as you listen to the Word.
-                    </p>
-                    <p>Today the Lord will give a message that answers the various different issues that concern people in the course of life. When you are taking a test, if you cannot figure out an answer, you get a headache and you feel heavy in your heart. In this way, when human beings run into problems in the course of their lives, they seek answers. The problem gets resolved only when you find the answer. If you cannot find the answer, your head hurts, you feel burdened by worries, concerns, and anxieties, and your heart becomes sick.
-                    </p>
-                    <p>
-    Also, when a trial arises while leading a life of faith, you seek answers. Until you find the answer, you are worried, anxious, and nervous. You have to find the answer to resolve the problem.
-                    </p>
-                    <img src="../inc/css/images/ssn.png" align="left" class="left" style="margin-left:-5px;" >
-                    <p>Today, too, together with the Lord, I will give a message that provides the answers to those who have physical or spiritual problems in life. I will help you understand today's message by briefly telling you, the situations of three people among the numerous people who prospered eternally, compared to when they had lived in the world, because they took action exactly according to the answers the Lord gave them when they counseled Him about their issues in life.
-                    </p>
-                    <p>
-                    The first person is 'Peter.'
+                    <p>Like to draw? Want to get better at drawing? What's the easiest way to learn? Have you ever wondered how comic artists and animators can draw anything at any angle, quickly, without looking at anything, and make it look good? It doesn't make sense if you just watch them draw. What you can't see when you watch them draw is the drawing exercises they did to get that good.</p>
+                    <p>Quick sketching is easy, fun, and you can do it while you watch your favorite shows. Then you don't have to feel guilty for sitting in front of the television for a significant amount of time without getting anything done. When I quick sketch on a regular basis (at least a couple times a week) I produce more or less about 20 pages full of drawings for every 30 minutes of entertainment I watch. When I have not been practicing I may produce about half as many drawings in the same amount of time. Out of every 100 pages of drawings I produce I may find 20 or 30 of them that I keep and then I throw the rest away. In the end you have some good drawings, your skill improves rapidly, and you get to watch whatever you want. Sounds easy huh. It is.</p>
+                    <p>In this article I'll be going over the true benefit of quick sketching, the two types of quick sketching that I do, and if you put it to practice then you'll find out how to draw as good as your favorite artists and why they draw the way they do. Quick sketch is the fundamental exercise with which you'll use to build your own original style. It will help you to recreate other's styles and create your own original way of drawing.
                     </p>
                     
-            </div><!-- big gray -->
-            
+            </div name="big_gray">
+            <!-- video //
     		<div id="big_gray" style="display: block;">
                 <div class="embed-container">
                 <iframe src="http://player.vimeo.com/video/37116815?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
@@ -55,10 +45,11 @@ $page = '1';
             All of you have to do the same. There are many people who already live in this way according to the answer that the Lord gave them.        
             </p>
             </div name="big_gray">
+            // End of video -->
             <div id="big_gray" class="footer">
             <blockquote>
             	<p>
-                This is a compilation of excerpts, keypoints, and sermon resource videos from translations of the sermons given on Sunday, February 19, 2012 and Wednesday February 22, 2012 in Providence Churches all over the world. 
+                This lesson is divided up into a few different sections. Please read each section and then leave some feedback on the last page.
 	</div><!-- big gray -->
         </div><!-- content -->
     <div id="big_gray" style="display:inline-block;" >
