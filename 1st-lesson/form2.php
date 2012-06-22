@@ -23,7 +23,7 @@ $page = 'Finish';
 <p>If you have any questions or feedback be sure to let us know!</p>
 </div>
 <div id="big_gray">
-<textarea name="comment" rows="8" cols="75" placeholder="Please let us know what you think, honestly. We want to make this experience better and better." class="required" title="We would really appreciate it if you left even a brief comment :D"></textarea>
+<textarea name="comment" rows="8" placeholder="Please let us know what you think, honestly. We want to make this experience better and better." class="required" title="We would really appreciate it if you left even a brief comment :D"></textarea>
 <!--<div id="big_gray" style="padding-left:0;margin:0;">-->
 	<ul class="choices" style="float:left; margin: 0 0 10px; padding-left:0;"><li><label><input type="radio" name="Keep.my.post" value="public" class="ss-q-radio" id="group_1_1" validate="required:true" title="Mind if we post this comment?">
 

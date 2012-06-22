@@ -7,18 +7,24 @@
 body {/* Newspaper // background: #FDFDFA url(images/newspaper-dark.png) repeat; text-align: center;color: #444; font-family: Georgia,"Times New Roman",serif; */ 
 	/* Blue toy */ background-color: #008efe; text-align: center; /* !!! */; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; 
 }
+/* modification that overides Skeleton for Blue Toy theme */
+.container #big_gray {padding: 24px 24px;}
 .lightcolor {color: #888;}
 .live, .live a{color: #080000;}
 #nav {color: #080000;}
 
 form img { margin: 0; }
 
-a, h1, h2, h3 {color: #a12b2b;}
+a, h1, h2, h3 {color: #6CF;}
 h1, h2, h3 {
 	/* Newspaper - color:#444; font-family: 'Georgia', serif; */
 	/* Blue toy */ color:white; font-family: 'Gloria Hallelujah', cursive;
 }
-h1 {font-family: 'Poiret One', cursive; text-shadow: #CCC -1px -1px 0;}
+h1 {/* Newspaper // font-family: 'Poiret One', cursive; text-shadow: #CCC -1px -1px 0; */
+	/* Blue toy */ font-family: 'Gloria Hallelujah', cursive; margin: 0 0 14px 0;}
+h2 {line-height: 1.5em;}
+h3 {font-size: 1.3em;}
+#next h3 {margin:0;}
 /* form1.php */
 #floater {
 	height:35%; 
@@ -51,19 +57,20 @@ ul label {
 	display: inline-table;
 }
 /* naviagation */
-#nav {/* margin-bottom:10px; */ text-align:center; font-size: 20px;}
+#nav {/* margin-bottom:10px; */ text-align:center; font-size: 20px; /* blue toy addition */ color: #045A94;}
 #nav a {color: #FFF; text-decoration: none;}
 #nav ul {padding-left:0;  margin-top: 0;}
 #nav li {list-style:none;display:inline-block;margin:2px 10px;}
 #nav li a:hover {text-decoration: underline;}
 .live, .live a{
+	/* Blue Toy addition */color: white;
 	padding: 10px 20px;
 	border-radius: 5px 5px 5px 5px;
 	-moz-border-radius:5px 5px 5px 5px;
 	-khtml-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	}
-p {margin-top:0;}
+p {margin-top:0; /* overide skeleton */ font-size: 1.2em;}
 a:hover {color: #008efe;}
 /* Tabs reading css originally in custom.css */
 div.panes p, div.panes li {color: #333;}
@@ -200,7 +207,8 @@ background-repeat: no-repeat;
 /*line-height: 1.2em; */
 margin-bottom: 20px;
 padding: 16px 20px;
-width: 580px;
+/* width: 580px; */
+width: 88%; /* Bad design!!! Hopefully better solution will present itself */
 }
 #bigroundforms_form input:focus, #bigroundforms_form textarea:focus {
 background-color: #FAFAD6;
@@ -340,7 +348,7 @@ padding: 20px;
 }
 blockquote p {
 	font-weight: normal;
-	font-size: 14px;
+	font-size: 1em; line-height: 1.4em;
 }
 #big_gray {
 /* border: 1px solid gray; */

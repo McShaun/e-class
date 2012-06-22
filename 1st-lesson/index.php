@@ -44,8 +44,11 @@ Change the button and "click here to finish" on the last page of content
 <div id="right-or-bottom">
   <center>
     <!--<center><h3>Welcome to<br />Providence Online.</h3>-->
-    <h3><center>Hi, I'm Minister Shaun</center></h3><p>Welcome to Providence Online. <br />What's your name?</p>
-    <br />
+    <h2><center>
+      Hi, I'm Mr. Shaun<br/>
+      What's your name?
+    </center></h2>
+<br />
     <div style="display:inline-block;">
     <input type="text" placeholder="Name" name="name" style="float:left;" class="required" title="Just a name - What could it hurt?">
     
