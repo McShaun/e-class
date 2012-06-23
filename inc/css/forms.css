@@ -19,9 +19,10 @@ a, h1, h2, h3 {color: #6CF;}
 h1, h2, h3 {
 	/* Newspaper - color:#444; font-family: 'Georgia', serif; */
 	/* Blue toy */ color:white; font-family: 'Gloria Hallelujah', cursive;
+	margin: 0 0 14px 0;
 }
 h1 {/* Newspaper // font-family: 'Poiret One', cursive; text-shadow: #CCC -1px -1px 0; */
-	/* Blue toy */ font-family: 'Gloria Hallelujah', cursive; margin: 0 0 14px 0;}
+	/* Blue toy */ font-family: 'Gloria Hallelujah', cursive; }
 h2 {line-height: 1.5em;}
 h3 {font-size: 1.3em;}
 #next h3 {margin:0;}
@@ -175,7 +176,7 @@ line-height:30px;
 }
 #bigroundforms_form input[type=text] {
 height:33px; /* wierd IE */
-width: 200px;
+width: 212px;
 }
 #bigroundforms_form ul { list-style: none outside; }
 /* #bigroundforms_form input.ss-q-checkbox, #bigroundforms_form input.ss-choice-label { height:auto; width:auto; } */

@@ -46,17 +46,16 @@ Double check from submissions. Might want to add some invisible form values so y
 
 <div id="right-or-bottom">
   <center>
-    <!--<center><h3>Welcome to<br />Providence Online.</h3>-->
     <h2><center>
-      Hi, I'm Mr. Shaun<br/>
-      What's your name?
-    </center></h2>
+      Hi, I'm Mr. Shaun</h2>
+      <p>I'll be your drawing instructor for today. What's your name?
+    </P>
 <br />
     <div style="display:inline-block;">
     <input type="text" placeholder="Name" name="name" style="float:left;" class="required" title="Just a name - What could it hurt?">
     
     <!-- <input type="submit" value="Send"> -->
-    <button id="form-submit" class="go" name="Message" value="Counseling on Issues in Life with the Lord" type="submit" style="float:right;"></button>
+    <button id="form-submit" class="go" name="Message" value="Counseling on Issues in Life with the Lord" type="submit" style="float:right; margin-right: 10px;"></button>
     </div>
     </center>
 </div name="right-or-bottom">

@@ -28,7 +28,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <!-- no gloss -->
 <link rel="apple-touch-icon-precomposed" href="../inc/css/images/webap60.png"/> 
-<link href="../inc/css/images/ssn.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="../inc/css/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
 <!-- gloss added by apple
 <link rel="apple-touch-icon" href="../inc/css/images/webap60.png"/> --> 

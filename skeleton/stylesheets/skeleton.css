@@ -22,10 +22,10 @@
 ================================================== */
 
 	@media only screen and (min-width: 960px) {
-	.container #big_gray {width: 838px;}
+	.container #big_gray {width: 930px;} /* 838 > 930 */
 	}
     .container #big_gray							{padding: 24px 60px; } /* SM */
-	.container                                  { position: relative; width: 960px; margin: 0 auto; padding: 0; }
+	.container                                  { position: relative; width: 980px; margin: 0 auto; padding: 0; } /* 960>980 */
     .container .column,
     /* .container .columns                      { float: left; display: inline; margin-left: 10px; margin-right: 10px; }
 	.container .column, SM */
@@ -82,9 +82,10 @@
 
     /* Note: Design for a width of 768px */ /* SM modified numbers by couple pixels 767 > 765, 489 > 478  on all media queries */
 
-    @media only screen and (min-width: 766px) and (max-width: 959px) {
+    /* old // @media only screen and (min-width: 766px) and (max-width: 959px) { */
+	@media only screen and (min-width: 747px) and (max-width: 959px) { 
 		.container #big_gray							{padding: 24px 36px; width: 650px;} /* SM */
-        .container                                  { width: 730px; } /* SM 768px > 730px to fit in margins and padding and border */
+        .container                                  { width: 700px; } /* SM 768px > 730px > 700px to fit in margins and padding and border */
         .container .column,
         .container .columns                         { margin-left: 10px; margin-right: 10px;  }
         .column.alpha, .columns.alpha               { margin-left: 0; margin-right: 10px; }
@@ -136,9 +137,13 @@
 
     /* Note: Design for a width of 320px */
 
-    @media only screen and (max-width: 765px) {
+    @media only screen and (max-width: 745px) { /* originally 765 */
 		.container #big_gray	{padding: 12px 8px; } /* SM */
-        .container { width: 300px; }
+		.container #big_gray h1 {font-size: 1.5em;} 
+		.container #big_gray h2 {font-size: 1.3em;}
+		.container #big_gray h3 {font-size: 1.1em;}
+		.container #big_gray p {font-size: 1em;}
+        .container { width: 300px; } /* 300 > 280 */
         .container .columns,
         .container .column { margin: 0; }
 
@@ -187,9 +192,9 @@
 
     /* Note: Design for a width of 480px */
 
-    @media only screen and (min-width: 478px) and (max-width: 765px) {
+    @media only screen and (min-width: 458px) and (max-width: 746px) { /* SM originally 478 765 */
 		.container #big_gray	{padding: 12px 8px; } /* SM */
-        .container { width: 420px; }
+        .container { width: 440px; }
         .container .columns,
         .container .column { margin: 0; }
 
@@ -212,7 +217,7 @@
         .container .sixteen.columns,
         .container .one-third.column,
         .container .two-thirds.column { width: 420px; }
-    }
+    } */
 
 
 /* #Clearing
