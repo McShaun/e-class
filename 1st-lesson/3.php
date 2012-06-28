@@ -3,6 +3,7 @@ $page = '3';
 ?>
 <?php include("../inc/header.php"); ?>
 <body>
+
 <div class="container">
 <div id="form" class="one" >
 <?php include("nav.php"); ?>
@@ -20,37 +21,21 @@ $page = '3';
     <div class="clear"></div>                     
         
         <div id="big_gray">
-        <h1>"Counseling on Issues in Life with the Lord"<strong style="font-weight:100; font-size:18px;">Continued...</strong>
+        <h1>Quick Sketch – How to Draw like a Pro <strong style="font-weight:100; font-size:18px;">Continued...</strong>
                 </h1>
-        	<p>
-	Thirdly, I will talk about one more person from the countryside whose name is not in the Bible.
-    		</p>
-   		</div>
-    <div id="big_gray" style="display: block;">
-            <div class="embed-container">
-            <iframe src="http://player.vimeo.com/video/37116329?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-            </div>
-	</div><!-- big gray -->
-    <div id="big_gray">
-                
-                <img src="../inc/css/images/young_ssn.png" align="left" class="left" style="margin-left:-5px;" >
-                		<p> 
-						When I ran into the problem of life, I counseled with my father. My father gave me an answer in the following way. He said, "You have to work harder than me. The field is now old and aged, so if you fertilize it in an ordinary way, it won't be effective or able to do its job. Your older brothers and younger siblings have gone to the city, so you live here farming diligently. If you live farming diligently, you won't have a problem with making a living, and you will feel comfortable and good in your heart."
-                        </p>
-                        <div id="illustration" class="right"><img src="../inc/illus/dadandi.jpg" align="right"></div>
-                        <div id="illustration" class="right"><img src="../inc/illus/momandi.png" align="right"></div>
-                        <p>
-                        When I counseled with my mother regarding the same issue, she gave me the following answer. She said, "If it's possible, escape this place and go to the city. Aren't you sick and tired of weeding the field? The field is old now, so only a lot of weeds grow out of it. We, two old people, will reduce the size of the field and make a living by farming. So go to the city. If you stay here, you will also end up like your father."
-                        </p>
-                        <p>
-                        I asked the Lord regarding the same issue. Since the Lord knew my abilities and my situation well, He couldn't say much. I had to be educated for Him to tell me to go to the city, but since I was not educated, He couldn't tell me to do so. Also, if He were to tell someone who likes white rice to farm, they would like it, but He couldn't tell me to live on farming because I didn't have a rice paddy or field. He seemed to be only looking at me without being able to say anything.
-                        </p>
-                        <p>
-                        The Lord didn't speak. So I said to Him first, "I will follow You, Lord." When I said that, the Lord said, "If you follow Me, I cannot give you money..." I said, "Still, I'd love to follow You!" Since it didn't make the Lord feel burdened, He permitted it. Following the Lord resolved my issue of life, which was the issue of my future path.
-                        </p>
-                        <p>
-                        I knew that following the Lord was the answer to my issue in life, so I spoke to the Lord before He did. Other people followed the Lord because the Lord told them to, but I knew the answer and I said that I would follow Him before He told me to.
-						</p>
+                </div><!-- big gray -->
+        	<div id="big_gray">
+        	
+<h2>It's not about good drawings.  It's about drawing good.</h2>
+<p>Don't try to produce good drawings. It's like a rabbit, if you chase the rabbit he will run away from you. Instead of trying to make every one of your drawings look really good, just focus on trying to capture the essence of what you are drawing. As soon as you capture the interesting shape, the emotion, or the essence of what you saw on the screen try to recreate it on the page with a few strokes of your pen.  Drawing is very intuitive and requires an extreme sensitivity to capture images that are on your brain for just an instant.  If you get distracted you'll quickly lose the subject.  You should NOT be focusing on the physical paper or pen/pencil but on the subject that you are capturing.  Stay focused on the subject you are drawing, not the drawing itself.</p>
+			
+			
+            <blockquote>
+                    <p>AS SOON AS YOU HAVE DRAWN A UNDERSTANDABLE IMAGE ON THE PAGE MOVE ON. DON'T FINISH YOUR DRAWINGS AND DON'T ADD DETAIL!</p>
+			</blockquote>
+
+<p>I know this is hard for beginners but don't fall into this trap. You'll never grow as an artist if you spend a 1,000 hours adding insignificant lines to your drawings. Capture the image in as few lines as possible then move on.  If you keep drawing for a significant amount of time then eventually some of those drawings will come out really nicely.  But most of them may look really bad.  That's fine because the bad drawings are a part of the learning process.  If you try to make them all good it will distract you from practicing and learning.</p>
+                       
         </div><!-- big gray -->
     </div><!-- content -->
 <!-- End Video tabs ////////////////////////////////////////      -->

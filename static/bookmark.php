@@ -27,7 +27,7 @@ $page = 'Finish';
 
 <br style="clear: both;">
 
-<div style="padding:10px;" class="lightcolor">* Don't worry, you will not be signed up for any newsletters and I most certainly will not give out your email to anyone. You can also email us directly at <a href="mailto:biblestudyinteractive@gmail.com">biblestudyinteractive@gmail.com</a>.
+<div style="padding:10px;" class="lightcolor">* Don't worry, you will not be signed up for any newsletters and I most certainly will not give out your email to anyone. You can also email us directly at <a href="mailto:ShaunDmcmillan@gmail.com">ShaunDmcmillan@gmail.com</a>.
 </div>
 
 </div><!-- end of bigroundforms_form -->

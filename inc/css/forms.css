@@ -346,6 +346,7 @@ font-weight: bold;
 line-height: normal;
 margin: 20px;
 padding: 20px;
+display: inline-block; /*great for images */
 }
 blockquote p {
 	font-weight: normal;

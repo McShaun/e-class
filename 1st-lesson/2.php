@@ -29,17 +29,23 @@ $page = '2';
                 <h3>It Doesn't Take Much</h3>
         		<p>
                 All you need is a fat stack of paper, a clipboard, something to draw with, and something inspirational to look at. Personally I like to use a ball point pen. Most people probably like to use a pencil but I don't recommend pencils. I recommend anything but a pencil. Ball point pens are good because they produce a consistent line without much effort. Sharpies are good because they produce a bold line and force you to draw with only one line for each side of the shape. Markers are even better. Pencils are not good because to produce a thick line they require effort. The point of quick sketching is to sketch quickly and effortlessly. It should flow out of your arm just like breathing, and pencils don't really allow you to do that as well as pens and markers.</p>
-				<p>Here is an example of some of my own quick sketches. These were done on many different pages and then I cut them out and composited them together for my book. I drew the sketches on the right while watching Napoleon Dynamite, and the ones on the left are all random friends of mine. All of these drawings are done in pen.
-				</p>
+           <!--
+           </div name="big gray">
+           <div class="clear"></div>                     
+        	<div id="big_gray"> 
+            -->    
+				<h3>Effortless and fluid.</h3>
+                <p>
+When you quick sketch you are basically looking at something and then drawing it on the page. Most young artists or inexperienced artists focus intensely on the paper and the lines that they are drawing. What you want to do is focus on the subject you are drawing. Scan the screen and look for shapes, forms, and expressions. I usually just look at the characters/people and then draw them somewhere on the page.</p>
+				<p>
+If you are really good then you could memorize the composition of the subject within the television frame. For instance you could try to memorize how big the character is on the screen and how close to one side or the other they are. On your paper you'll want to draw the frame first and then place the character within the frame. This isn't necessary though and I don't recommend it unless you plan to become a story board artist.</p>
+
+            <!-- // video
             <div class="embed-container">
             <iframe src="http://player.vimeo.com/video/37116816?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-            </div>
-	</div><!-- big gray -->
-    <div class="clear"></div>                     
-        <div id="big_gray">
-        	<p>
-    All of you too, if you are in the same situation as this Samaritan woman, the answer for you is the same. 
-    		</p>
+            </div> 
+            video // -->
+    
         </div><!-- big gray -->
     </div><!-- content -->
 <div id="big_gray">

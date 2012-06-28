@@ -48,7 +48,7 @@ Double check from submissions. Might want to add some invisible form values so y
   <center>
     <h2><center>
       Hi, I'm Mr. Shaun</h2>
-      <p>I'll be your drawing instructor for today. What's your name?
+      <p>I'll be your teacher for today. What's your name?
     </P>
 <br />
     <div style="display:inline-block;">

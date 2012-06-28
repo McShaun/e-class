@@ -16,11 +16,13 @@ $page = 'Finish';
   }
 ?>
 <div id="big_gray">
-<img src="../inc/css/images/young_ssn.png" align="left" class="left" style="margin-left:-5px;" height="110" >
+<img src="../inc/css/images/form_avatar.png" align="left" height="110" style="margin-left:-5px;" >
 <label>
 	<h2>What do you think?</h2>
 </label>
 <p>If you have any questions or feedback be sure to let us know!</p>
+<p>
+<strong style="color: #F00;">!!! Important !!!</strong> If you are in my class, you will need to leave a comment in order to get credit for this assignment!</p>
 </div>
 <div id="big_gray">
 <textarea name="comment" rows="8" placeholder="Please let us know what you think, honestly. We want to make this experience better and better." class="required" title="We would really appreciate it if you left even a brief comment :D"></textarea>

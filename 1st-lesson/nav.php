@@ -37,7 +37,16 @@
 <?php } else { ?>
 <li>4</li>
 <?php } ?>
-<!--
+
+<?php if ($page == '5') { ?>
+<li class="live">
+<em>5</em>
+</li>
+<?php } else { ?>
+<li>5</li>
+<?php } ?>
+
+<!-- // with clickable menu items
 <?php if ($page == '5') { ?>
 <li class="live">
 <em>5</em>
@@ -46,6 +55,22 @@
 <li><a href="../counsel/5.php">5</a></li>
 <?php } ?>
 -->
+
+<?php if ($page == '6') { ?>
+<li class="live">
+<em>6</em>
+</li>
+<?php } else { ?>
+<li>6</li>
+<?php } ?>
+
+<?php if ($page == '7') { ?>
+<li class="live">
+<em>7</em>
+</li>
+<?php } else { ?>
+<li>7</li>
+<?php } ?>
 
 <?php if ($page == 'Finish') { ?>
 <li class="live">
