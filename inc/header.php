@@ -26,12 +26,12 @@
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<!-- no gloss -->
-<link rel="apple-touch-icon-precomposed" href="../inc/css/images/webap60.png"/> 
+<!-- // no gloss 
+<link rel="apple-touch-icon-precomposed" href="../inc/css/images/sm-webap60.png"/>// -->
 <link href="../inc/css/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
-<!-- gloss added by apple
-<link rel="apple-touch-icon" href="../inc/css/images/webap60.png"/> --> 
+<!-- //gloss added by apple // -->
+<link rel="apple-touch-icon" href="../inc/css/images/sm-webap60.png"/> 
 <link rel="apple-touch-startup-image" href="../inc/css/images/320x480splash.png" />
 <!-- fullscreen, cancelled cause needs back button or clickable breadcrumbs -->
 <meta name="apple-mobile-web-app-capable" content="yes" />
