@@ -115,7 +115,7 @@ function build_message($request_input){if(!isset($message_output)){$message_outp
 $message = build_message($_REQUEST);
 $message = $message . PHP_EOL.PHP_EOL."-- ".PHP_EOL."Don't forget to add it to your bookmarks!";
 $message = stripslashes($message);
-$subject = "FormToEmail Comments";
+$subject = "Your Bookmark";
 $subject = stripslashes($subject);
 if($from_email)
 {
